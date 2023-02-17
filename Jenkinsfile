@@ -17,7 +17,7 @@ pipeline {
             }
         }
 
-        stage('Deploy') {
+        stage('Deplo') {
             steps {
                
                 echo 'Deploy by PES1UG20CS544 successful'
